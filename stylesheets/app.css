@@ -1,0 +1,66 @@
+/* Foundation v2.1.5 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+/* ZURB bar */
+#navbar {
+  background: #222222;
+  border-bottom: solid 4px #00a5ff;
+  padding: 15px 20px 13px 20px; }
+  
+@media handheld, only screen and (max-width: 767px) {
+  #navbar {
+    padding-left: 20px;
+    padding-right: 20px; }
+}
+
+#navbar h1, #navbar h2 {
+  margin-bottom: 0;
+  line-height: 1; }
+#navbar h1 {
+  color: white;
+  font-size: 16px;
+  font-size: 1.6rem;
+  font-weight: 800; }
+#navbar h1 a { color: #fff; font-weight: bold; }
+#navbar h2 a {
+  text-indent: -99999px;
+  display: block;
+  width: 82px;
+  height: 14px;
+} 
+
+#navbar strong { display: block; margin: 0; padding: 0; height: 14px; line-height: 14px; position: relative; bottom: 4px; }
+#navbar strong a {
+  line-height: 14px;
+  color: #fff;
+  font-weight: 500;
+  padding-right: 12px;
+}
+#navbar strong a.button { padding: 4px 10px; font-weight: bold; }
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
